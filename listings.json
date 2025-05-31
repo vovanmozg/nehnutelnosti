@@ -7001,6 +7001,47 @@
         "url": "https://www.nehnutelnosti.sk/detail/JuQn7ZuTFwA/priestranny-4-izbovy-byt-v-komplexe-rozadol",
         "scraped_at": "2025-05-30 20:38:08"
       }
+    },
+    {
+      "id": "Juk6KEjLMG8",
+      "url": "https://www.nehnutelnosti.sk/detail/Juk6KEjLMG8/ponukame-vam-na-prenajom-3-izbovy-byt-bratislava-ruzinovlmuskatova",
+      "processed": true,
+      "data": {
+        "id": "Juk6KEjLMG8",
+        "title": "3 izbový byt Bratislava-Ružinov,Muškátova",
+        "address": "Muškátová, Bratislava-Ružinov, okres Bratislava II",
+        "price_eur_per_month": 750,
+        "price_with_utilities_eur": 850,
+        "deposit_eur": 750,
+        "agent_fee_eur": 750,
+        "parking": "yes",
+        "parking_spot": "no",
+        "suitable_for_family": "unknown",
+        "pets_allowed": "unknown",
+        "dishwasher": "unknown",
+        "microwave": "yes",
+        "air_conditioning": "no",
+        "heating_type": "unknown",
+        "floor": "1",
+        "building_total_floors": "8",
+        "move_in_date": "unknown",
+        "combined_kitchen": "unknown",
+        "type": "3 izbový byt",
+        "renovation": "čiastočná rekonštrukcia",
+        "price_eur_per_m2": 10.71,
+        "area_m2": 70,
+        "living_area_m2": 70,
+        "construction_year": "unknown",
+        "residential_complex": "unknown",
+        "balcony": "yes",
+        "furniture": "full",
+        "infrastructure": "unknown",
+        "transport_accessibility": "unknown",
+        "description": "Ponúkame na prenájom 3 - izbový byt na Bratislava Ružinov - Muškátová ul. Byt s výmerou 70 m2 na 1. poschodí z 8. s výťahom. K bytu patrí loggia vo výmere 3 m2 a balkón 2m2.\n\nDISPOZIČNÉ RIEŠENIE:\n- priestranná chodba\n- kuchyňa s balkónom\n- obývacia izba - prechodná do chodby\n- samostatná izba\n- samostatná izba so šatníkom s loggiou\n- kúpelňa s  rohovou vanou\n- samostatné WC\n\nVYBAVENIE BYTU:\nTento priestranný 3-izbový byt sa ponúka na prenájom zariadený. Kuchyňa je vybavená chladničkou, mrazničkou, plynovým sporákom, rúrou, mikrovlnnou rúrou. Práčka je v kúpelni. Súčasťou bytu je  loggia orientovaná do zelene. Okná sú platové so žalúziami. Obývacia izba zariadená, V spálni dvoj posteľ a skriňa.\nByt bol čiastočne zrekonštruovaný.\n\nParkovanie je  na parkovisku pred domom - verejné.\n\nCena: 750 €/mesiac + 100 Eur nájomné + elektrika, plyn .(850 Eur komplet)\n\nPoplatok pri podpise zmluvy.\n\n1x nájom+ 1x depozit+provízia",
+        "description_ru": "Предлагаем в аренду 3-комнатную квартиру в Братиславе Ружинов - ул. Мушкатова. Квартира площадью 70 м2 на 1 этаже из 8 с лифтом. В квартире есть лоджия площадью 3 м2 и балкон 2 м2.\n\nПЛАНИРОВКА:\n- просторный коридор\n- кухня с балконом\n- гостиная - переходная в коридор\n- отдельная комната\n- отдельная комната с гардеробной с лоджией\n- ванная комната с угловой ванной\n- отдельный туалет\n\nОБОРУДОВАНИЕ КВАРТИРЫ:\nЭта просторная 3-комнатная квартира предлагается в аренду с мебелью. Кухня оборудована холодильником, морозильником, газовой плитой, духовкой, микроволновой печью. Стиральная машина находится в ванной комнате. В квартире есть лоджия с видом на зелень. Окна пластиковые с жалюзи. Гостиная меблирована, в спальне двуспальная кровать и шкаф.\nКвартира частично отремонтирована.\n\nПарковка на парковке перед домом - общественная.\n\nЦена: 750 €/месяц + 100 Eur аренда + электричество, газ (850 Eur всего)\n\nОплата при подписании договора.\n\n1x аренда + 1x депозит + комиссия",
+        "url": "https://www.nehnutelnosti.sk/detail/Juk6KEjLMG8/ponukame-vam-na-prenajom-3-izbovy-byt-bratislava-ruzinovlmuskatova",
+        "scraped_at": "2025-05-31 07:41:36"
+      }
     }
   ],
   "processed_ids": []
